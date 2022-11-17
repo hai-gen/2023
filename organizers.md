@@ -58,7 +58,7 @@ show_sidebar: false
             </figure>
         </div>
         <div class="tile is-child"  style="padding-left: 2em;">
-            <p class="title">Lydia Chilton</p>
+            <p class="title">Lydia B. Chilton</p>
             <p class="subtitle">Columbia University</p>
             <p class="content">Lydia is an Assistant Professor in the Computer Science Department at Columbia University. She is an early pioneer in decomposing complex tasks so that crowds and computers can solve them together. Her current research is in computational design - how computation and AI can help people with design, innovation, and creative problem-solving. Applications include: conveying a message visually for journalism and advertising, developing technology for public libraries, improving risk communication during hurricanes, and helping scientists explain their work on Twitter. Lydia was a co-organizer of <a href="https://hai-gen2020.github.io/">HAI-GEN 2020</a>, <a href="https://hai-gen2021.github.io">HAI-GEN 2021</a>, and <a href="https://hai-gen.github.io/2022">HAI-GEN 2022</a>.</p>
             <p>
