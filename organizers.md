@@ -12,6 +12,19 @@ show_sidebar: false
     <article class="tile is-parent box">
         <div class="tile is-child is-2">
             <figure class="image">
+                <img src="../img/mary.jpg"/>
+            </figure>
+        </div>
+        <div class="tile is-child"  style="padding-left: 2em;">
+            <p class="title">Mary Lou Maher</p>
+            <p class="subtitle">University of North Carolina, Charlotte</p>
+            <p class="content">Mary is a Professor and Director of the HCI Lab in the College of Computing and Informatics at UNC Charlotte. She has a joint appointment in the Department of Software and Information Systems and the School of Data Science. Her research in computational creativity extends genetic algorithms, analogical reasoning, and more recently deep learning models to automate the generation of creative designs and respond to the question: Can computers be creative? Her research in HCI has lead to a complementary focus in computational creativity to design and evaluate interaction models for co-creative systems and respond to the question: Can computational creativity enhance human creativity? Mary was a co-organizer of <a href="https://hai-gen2021.github.io">HAI-GEN 2021</a> and <a href="https://hai-gen.github.io/2022">HAI-GEN 2022</a>.</p>
+            <p><span class="icon is-medium"><a href="http://maryloumaher.net"><i class="fas fa-lg fa-home"></i></a></span></p>
+        </div>
+    </article>
+    <article class="tile is-parent box">
+        <div class="tile is-child is-2">
+            <figure class="image">
                 <img src="../img/justin.jpg"/>
             </figure>
         </div>
@@ -24,20 +37,7 @@ show_sidebar: false
                 <span class="icon is-medium"><a href="https://twitter.com/gratefulspam"><i class="fab fa-lg fa-twitter-square"></i></a></span>
             </p>
         </div>
-    </article>
-    <article class="tile is-parent box">
-        <div class="tile is-child is-2">
-            <figure class="image">
-                <img src="../img/mary.jpg"/>
-            </figure>
-        </div>
-        <div class="tile is-child"  style="padding-left: 2em;">
-            <p class="title">Mary Lou Maher</p>
-            <p class="subtitle">University of North Carolina, Charlotte</p>
-            <p class="content">Mary is a Professor and Director of the HCI Lab in the College of Computing and Informatics at UNC Charlotte. She has a joint appointment in the Department of Software and Information Systems and the School of Data Science. Her research in computational creativity extends genetic algorithms, analogical reasoning, and more recently deep learning models to automate the generation of creative designs and respond to the question: Can computers be creative? Her research in HCI has lead to a complementary focus in computational creativity to design and evaluate interaction models for co-creative systems and respond to the question: Can computational creativity enhance human creativity? Mary was a co-organizer of <a href="https://hai-gen2021.github.io">HAI-GEN 2021</a> and <a href="https://hai-gen.github.io/2022">HAI-GEN 2022</a>.</p>
-            <p><span class="icon is-medium"><a href="http://maryloumaher.net"><i class="fas fa-lg fa-home"></i></a></span></p>
-        </div>
-    </article>
+    </article>    
     <article class="tile is-parent box">
         <div class="tile is-child is-2">
             <figure class="image">
