@@ -55,7 +55,7 @@ defaults:
       type: "pages"
     values:
       show_sidebar: true
-      hero_image: https://hai-gen.github.io/2023/img/trees3-light.jpg
+      hero_image: https://hai-gen.github.io/2023/img/purple_mt_banner_cropped_800x256.png
   -
     scope:
       path: ""
