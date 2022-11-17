@@ -13,7 +13,7 @@ The goal of this workshop is to bring together researchers and practitioners fro
 The central question of our workshop is: how can we build co-creative systems that make people feel that they have “creative superpowers”? How will user needs drive the development of generative AI algorithms, and how can the capabilities of generative models be leveraged to create effective co-creative user experiences?
 
 # Submission Guidelines
-We are accepting submissions in the form of papers and demos following the [IUI submission guidelines](https://iui.acm.org/2022/call_for_papers.html) for papers. Similar to IUI's guidelines on paper length, there will be <strong>no limit to paper length</strong> this year. However, we expect the length of submissions to be proportional to the strength of their contribution, and we encourage authors to keep their submissions concise and focused (~5,000 words).
+We are accepting submissions in the form of papers and demos following the [IUI submission guidelines](https://iui.acm.org/2023/call_for_papers.html) for papers. Similar to IUI's guidelines on paper length, there will be <strong>no limit to paper length</strong> this year. However, we expect the length of submissions to be proportional to the strength of their contribution, and we encourage authors to keep their submissions concise and focused (~5,000 words).
 
 Submissions are encouraged, but not limited to, the following topics:
 
@@ -28,6 +28,6 @@ Submissions are encouraged, but not limited to, the following topics:
 
 All papers will undergo a single blind peer review (i.e. author names and affiliations should be listed). If accepted, at least one of the authors must attend the workshop to present the work.
 
-A workshop summary will be included in the ACM Digital Library for IUI 2022. Although papers and demos are not part of the archival ACM IUI proceedings, they will be published as part of a joint workshop proceedings through [CEUR](http://ceur-ws.org/) or a similar organization.
+A workshop summary will be included in the ACM Digital Library for IUI 2023. Although papers and demos are not part of the archival ACM IUI proceedings, they will be published as part of a joint workshop proceedings through [CEUR](http://ceur-ws.org/) or a similar organization.
 
-Please submit your papers & demos to EasyChair by <strong>January 9, 2022 AoE</strong> <a href="https://time.is/Anywhere_on_Earth" target="_blank"><span class="icon"><i class="fas fa-clock"></i></span></a>: [https://easychair.org/conferences/?conf=haigen2022](https://easychair.org/conferences/?conf=haigen2022)
+<!-- Please submit your papers & demos to EasyChair by <strong>January 9, 2022 AoE</strong> <a href="https://time.is/Anywhere_on_Earth" target="_blank"><span class="icon"><i class="fas fa-clock"></i></span></a>: [https://easychair.org/conferences/?conf=haigen2022](https://easychair.org/conferences/?conf=haigen2022) -->

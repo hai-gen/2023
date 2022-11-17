@@ -1,3 +1,24 @@
+
+INSTRUCTRUCTIONS for creating a new site (like for  new year)
+
+1. on github website, in the hai-gen FOLDER (which is not a repo), create a new repo called "2023" (or whatever you want)
+https://github.com/hai-gen (hai-gen older)
+
+https://github.com/hai-gen/2023 (new repo)
+
+
+
+2. Set the github repo to be a "pages"
+https://github.com/hai-gen/2023/settings/pages
+
+3. Create a new test file, and wait a few minutes (less than 10) to make sure it appears at the url
+https://hai-gen.github.io/2023/text.html
+
+3. To Initialize the new repo with last years code (on your desktop) clone the repo locally (git clone https://github.com/hai-gen/2023.git). Then copy old files into the new folder/repo, git add ., git commit, wait a few minutes (less than 10) and check that it's live. 
+https://hai-gen.github.io/2023/
+
+
+------
 # bulma-clean-theme
 
 [![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)

@@ -1,16 +1,16 @@
 ---
-title: HAI-GEN Workshop at IUI 2022
-subtitle: 3rd Workshop on Human-AI Co-Creation with Generative Models
+title: HAI-GEN Workshop at IUI 2023
+subtitle: 4th Workshop on Human-AI Co-Creation with Generative Models
 layout: page
 <!-- callouts: home_callouts -->
 show_sidebar: true
 ---
 
-<div class="notification is-info">
+<!-- <div class="notification is-info">
     <p>
     <strong>Jan 10 Update: The submission deadline has now passed and we are beginning the reviewing process. Notifications will be sent on January 28th.</strong>
     </p>
-</div>
+</div> -->
 
 # Workshop Description
 
@@ -24,4 +24,4 @@ The central question of our workshop is <b>how can we build co-creative systems 
 
 # Participation & Submissions
 
-<strong>HAI-GEN 2022 will be held virtually</strong>. Submissions will take the form of papers and demos, following the IUI paper and demo guidelines. Please see the [Call for Participation](cfp) for relevant topics and submission instructions.
+<strong>HAI-GEN 2023 will be held virtually</strong>. Submissions will take the form of papers and demos, following the IUI paper and demo guidelines. Please see the [Call for Participation](cfp) for relevant topics and submission instructions.

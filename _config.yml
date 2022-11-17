@@ -1,11 +1,11 @@
 # Site Settings
-title: HAI-GEN 2022
+title: HAI-GEN 2023
 tagline: IUI Workshop on Human-AI Co-Creation with Generative Models
 email: jweisz@us.ibm.com
 description: >
-  3rd Workshop on Human-AI Co-Creation with Generative Models
+  4th Workshop on Human-AI Co-Creation with Generative Models
 # baseurl: "/bulma-clean-theme"
-url: "https://hai-gen.github.io/2022"
+url: "https://hai-gen.github.io/2023"
 permalink: pretty
 favicon: favicon.png
 # gh_sponsor: chrisrhymes
@@ -55,7 +55,7 @@ defaults:
       type: "pages"
     values:
       show_sidebar: true
-      hero_image: https://hai-gen.github.io/2022/img/trees3-light.jpg
+      hero_image: https://hai-gen.github.io/2023/img/trees3-light.jpg
   -
     scope:
       path: ""
