@@ -98,7 +98,7 @@ show_sidebar: false
     </article>
 </div>
 
-<p>Email the organizing committee at <a href="mailto:haigen2022@googlegroups.com">haigen2022 [at] googlegroups.com</a></p>
+<p>Email the organizing committee at <a href="mailto:haigen2023@googlegroups.com">haigen2023 [at] googlegroups.com</a></p>
 
 
 # Program Committee
