@@ -30,4 +30,6 @@ All papers will undergo a single blind peer review (i.e. author names and affili
 
 A workshop summary will be included in the ACM Digital Library for IUI 2023. Although papers and demos are not part of the archival ACM IUI proceedings, they will be published as part of a joint workshop proceedings through [CEUR](http://ceur-ws.org/) or a similar organization.
 
-<!-- Please submit your papers & demos to EasyChair by <strong>January 9, 2022 AoE</strong> <a href="https://time.is/Anywhere_on_Earth" target="_blank"><span class="icon"><i class="fas fa-clock"></i></span></a>: [https://easychair.org/conferences/?conf=haigen2022](https://easychair.org/conferences/?conf=haigen2022) -->
+Please submit your papers & demos to EasyChair by <strong>January 9, 2022 AoE</strong> <a href="https://time.is/Anywhere_on_Earth" target="_blank"><span class="icon"><i class="fas fa-clock"></i></span></a>: [[https://easychair.org/conferences/?conf=haigen2022](https://easychair.org/conferences/?conf=haigen2023)](https://easychair.org/conferences/?conf=haigen2022)
+
+
