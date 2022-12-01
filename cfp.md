@@ -17,7 +17,7 @@ We are accepting submissions in the form of papers and demos following the [IUI 
 
 Submissions are encouraged, but not limited to, the following topics:
 
-* Novel, AI-augmented user experiences  that support the creation of physical and/or digital artifacts}
+* Novel, AI-augmented user experiences  that support the creation of physical and/or digital artifacts
 * Business use cases & novel applications of generative models
 * Techniques, methodologies, & algorithms that enable new user experiences and interactions with generative models and allow for directed and purposeful manipulation of the model output
 * Issues of governance, privacy, and ownership of AI-generated or human-AI co-created content
