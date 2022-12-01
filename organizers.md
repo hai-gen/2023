@@ -34,7 +34,7 @@ show_sidebar: false
             <p class="content">Justin is a Research Manager at IBM Research in Yorktown Heights, NY. He leads the Human-AI Collaboration team, whose mission is to design, build, and rigorously investigate new forms of human-AI partnerships that enhance and extend human capabilities. He is also a lead of the human-centered AI research strategy as well as a project exploring enterprise use cases of generative AI technologies. Justin was a co-organizer of <a href="https://hai-gen.github.io/2021/">HAI-GEN 2021</a> and <a href="https://hai-gen.github.io/2022">HAI-GEN 2022</a>.</p>
             <p>
                 <span class="icon is-medium"><a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-jweisz"><i class="fas fa-lg fa-home"></i></a></span>
-                <span class="icon is-medium"><a href="https://twitter.com/gratefulspam"><i class="fab fa-lg fa-twitter-square"></i></a></span>
+                <span class="icon is-medium"><a href="https://hci.social/@jweisz"><i class="fab fa-lg fa-mastodon"></i></a></span>
             </p>
         </div>
     </article>    
