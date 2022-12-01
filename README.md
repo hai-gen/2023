@@ -1,12 +1,10 @@
 
-INSTRUCTRUCTIONS for creating a new site (like for  new year)
+# Instructions for creating a new site for a new conference year
 
-1. on github website, in the hai-gen FOLDER (which is not a repo), create a new repo called "2023" (or whatever you want)
+1. On the Github website, in the `hai-gen` FOLDER (which is not a repo), create a new repo called "2023" (or whatever you want)
 https://github.com/hai-gen (hai-gen older)
 
 https://github.com/hai-gen/2023 (new repo)
-
-
 
 2. Set the github repo to be a "pages"
 https://github.com/hai-gen/2023/settings/pages
@@ -17,6 +15,18 @@ https://hai-gen.github.io/2023/text.html
 3. To Initialize the new repo with last years code (on your desktop) clone the repo locally (git clone https://github.com/hai-gen/2023.git). Then copy old files into the new folder/repo, git add ., git commit, wait a few minutes (less than 10) and check that it's live. 
 https://hai-gen.github.io/2023/
 
+
+# How to run this site locally
+
+1. Clone the repo locally
+2. Run `npm install`
+3. Run `npm start`, which will automatically trigger a build of the ruby extensions needed
+
+On macOS Ventura, you may get an error with `eventmachine` not being able to load `libcrypto.1.1.dylib`. To fix this:
+
+1. Make sure `openssl` is installed: `brew install openssl`
+2. Tell bundle to use openssl: `bundle config build.eventmachine --with-openssl-dir=/usr/local/opt/openssl@1.1`
+3. Run `npm start` and it should work.
 
 ------
 # bulma-clean-theme
