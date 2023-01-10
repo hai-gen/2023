@@ -6,11 +6,11 @@ layout: page
 show_sidebar: true
 ---
 
-<!-- <div class="notification is-info">
+<div class="notification is-danger is-light">
     <p>
-    <strong>Jan 10 Update: The submission deadline has now passed and we are beginning the reviewing process. Notifications will be sent on January 28th.</strong>
+    <strong>Jan 10 Update: The submission deadline has now passed and we are beginning the reviewing process. Notifications will be sent on January 29th.</strong>
     </p>
-</div> -->
+</div>
 
 # Workshop Description
 
