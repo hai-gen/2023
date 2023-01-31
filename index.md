@@ -8,7 +8,7 @@ show_sidebar: true
 
 <div class="notification is-danger is-light">
     <p>
-    <strong>Jan 10 Update: The submission deadline has now passed and we are beginning the reviewing process. Notifications will be sent on January 29th.</strong>
+    <strong>Jan 31 Update: Notifications have been sent. If your reviews indicated acceptance, please format your paper according to the <a href="https://docs.google.com/document/d/1tlHgJ74947SXW-0_otUT_5u2rDTAci0KZI4vHTbMyX4">CEUR guidelines</a> and submit in EasyChair by February 14.</strong>
     </p>
 </div>
 
