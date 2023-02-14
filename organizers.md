@@ -103,17 +103,15 @@ show_sidebar: false
 
 # Program Committee
 
-TBA
-
-<!-- * Maya Ackerman, Santa Clara University
+* Maya Ackerman, Santa Clara University
 * Daniel Buschek, University of Bayreuth
-* Sebastian Gehrmann, Google
 * Katy Gero, Columbia University
-* Kaz Grace, The University of Sydney
+* Kazjon Grace, The University of Sydney
 * Anna Huang, Google
-* Narendra Nath Joshi, IBM Research AI
 * Ryan Louie, Northwestern University
-* Michael Mateas, University of California, Santa Cruz
+* Brian Magerko, Georgia Tech
+* Charles Martin, Australian National University
 * Michael Muller, IBM Research AI
-* Jeba Rezwana, University of North Carolina, Charlotte -->
-
+* Jeba Rezwana, University of North Carolina, Charlotte
+* Steven Ross, IBM Research AI
+* Dan Ventura, Brigham Young University
