@@ -8,7 +8,7 @@ show_sidebar: true
 
 <div class="notification is-danger is-light">
     <p>
-    <strong>Jan 31 Update: Notifications have been sent. If your reviews indicated acceptance, please format your paper according to the <a href="https://docs.google.com/document/d/1tlHgJ74947SXW-0_otUT_5u2rDTAci0KZI4vHTbMyX4">CEUR guidelines</a> and submit in EasyChair by February 14.</strong>
+    <strong>Feb 15 Update: Thanks to the authors for submitting their camera-ready papers. We are currently building the workshop program and will post it in early March. Stay tuned!</strong>
     </p>
 </div>
 
