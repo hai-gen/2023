@@ -8,7 +8,7 @@ show_sidebar: true
 
 <div class="notification is-danger is-light">
     <p>
-    <strong>Feb 15 Update: Thanks to the authors for submitting their camera-ready papers. We are currently building the workshop program and will post it in early March. Stay tuned!</strong>
+    <strong>Feb 24 Update: We are happy to announce that our keynote speaker will be <a href="https://philippschmitt.com">Philipp Schmitt</a>! Stay tuned for the full workshop program which will be posted in early March.</strong>
     </p>
 </div>
 
