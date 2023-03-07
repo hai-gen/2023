@@ -6,9 +6,9 @@ layout: page
 show_sidebar: true
 ---
 
-<div class="notification is-danger is-light">
+<div class="notification is-light">
     <p>
-    <strong>Feb 24 Update: We are happy to announce that our keynote speaker will be <a href="https://philippschmitt.com">Philipp Schmitt</a>! Stay tuned for the full workshop program which will be posted in early March.</strong>
+    <strong>Mar 7 Update</strong>: We have released the <a href="program">workshop program</a>. Please note that the workshop will begin on <strong>March 27 at 6:00 AM AEDT (GMT-11)</strong> which corresponds to <strong>March 26 at 3:00 PM EDT (GMT-4)</strong>. Our workshop is open to all registered attendees of IUI.
     </p>
 </div>
 
