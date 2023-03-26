@@ -8,8 +8,12 @@ show_sidebar: true
 
 <div class="notification is-light">
     <p>
-    <strong>Mar 23 Update</strong>: Please <a href="https://charlotte-edu.zoom.us/j/92747123365">join us on Zoom for the HAI-GEN 2023 workshop</a>! The workshop starts on <strong>March 27 at 6:00 AM AEDT (UTC+11)</strong> which corresponds to <strong>March 26 at 3:00 PM EDT (UTC-4)</strong>. Please see the <a href="program">workshop program</a> for the full schedule.
+    <strong>Mar 23</strong>: Please <a href="https://charlotte-edu.zoom.us/j/92747123365">join us on Zoom for the HAI-GEN 2023 workshop</a>! The workshop starts on <strong>March 27 at 6:00 AM AEDT (UTC+11)</strong> which corresponds to <strong>March 26 at 3:00 PM EDT (UTC-4)</strong>. Please see the <a href="program">workshop program</a> for the full schedule.
     </p>
+</div>
+
+<div class="notification is-light">
+    <p><strong>Mar 26</strong>: Workshop proceedings have been published in CEUR: <a href="https://ceur-ws.org/Vol-3359/">https://ceur-ws.org/Vol-3359/</a></p>
 </div>
 
 # Workshop Description
