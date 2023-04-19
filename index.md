@@ -7,7 +7,7 @@ show_sidebar: true
 ---
 
 <div class="notification is-light">
-    <p><strong>Mar 26</strong>: Workshop proceedings have been published in CEUR: <a href="https://ceur-ws.org/Vol-3359/">https://ceur-ws.org/Vol-3359/</a></p>
+    <p><strong>Mar 26</strong>: Workshop proceedings have been published in CEUR: <a href="https://ceur-ws.org/Vol-3359/">https://ceur-ws.org/Vol-3359/</a>. The workshop recording is available on YouTube: <a href="https://www.youtube.com/watch?v=MvxRc2g7KtI">https://www.youtube.com/watch?v=MvxRc2g7KtI</a>.</p>
 </div>
 
 # Workshop Description
